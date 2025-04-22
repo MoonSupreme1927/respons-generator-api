@@ -1,0 +1,47 @@
+[
+    {
+      "query": "DATA DELETE REQ NO INFO",
+      "response": "Hi there, We can certainly help. Please provide the name, phone number, and email address you would like removed."
+    },
+    {
+      "query": "DELETE ACCOUNT REQ",
+      "response": "Hi there, We are sad to see you go :(. Your account has been deleted as requested. Please let us know if you have any questions!"
+    },
+    {
+      "query": "Fraud score detailed explanation",
+      "response": "Thanks for your feedback! The dashboard does have a bit of a looser definition of fraud. When making real-time decisions using the API, we would recommend using 90+ as the threshold for high confidence decisions when blocking or penalizing a user based on the Fraud Score. You can also use 85+ as a threshold on the API, but we recommend starting with 90+ and then adjusting the score from there based on the results you are seeing."
+    },
+    {
+      "query": "DATA DISPUTE ACKNOWLEDGEMENT",
+      "response": "Thanks for providing the IP address. I have submitted a ticket to our engineers to take a look into this. I will follow up with you once I hear back from them."
+    },
+    {
+      "query": "DUPLICATE ACCOUNT RESTORATION CONFIRMATION",
+      "response": "I looked closely at your account and confirmed that only one account was associated with you. I have restored access to your account. Thanks for your message. We apologize for the inconvenience, it looks like your IP address has had recent signups against our network. We've now verified your account and it should be fully active."
+    },
+    {
+      "query": "DATA DELETE CONFIRMATION",
+      "response": "Hi there, Thank you for being so patient. Your request has been processed and your data has been deleted. We do not sell your data to any third parties, it is purely used for a fraud detection use case within our system. Please let us know if you have any questions."
+    },
+    {
+      "query": "DATA DELETE REQ ACKNOWLEDGEMENT",
+      "response": "Hey there, We have submitted your removal request to our engineers. We do not sell your data to any third parties, it is purely used for a fraud detection use case within our system. Please let us know if you have any questions."
+    },
+    {
+      "query": "Delete request with condition",
+      "response": "If credit usage is low, don’t delete account—just deactivate."
+    },
+    {
+      "query": "GRADIENT RESPONSE",
+      "response": "Hi Jed, I apologize for the inconvenience. We are not blocking your IP, but Gradient has enabled some new filters. We are working with them to resolve this, please allow us a few more days. Thanks."
+    },
+    {
+      "query": "SUPPORT CODE",
+      "response": "This support code may be found in your account on the FAQ page under the support tab. It must be included with all requests to verify the origin of the request and your identity."
+    },
+    {
+      "query": "Red Canary - Upgrade to Premium / Subuser Request",
+      "response": "To get added as a subaccount for Red Canary, we'll start by asking them for the security code of the Red Canary main account, then go from there. Happy to help! I just need to get the security code of the Red Canary main account, then I can get you upgraded."
+    }
+  ]
+  
