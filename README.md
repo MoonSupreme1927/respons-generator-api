@@ -13,4 +13,6 @@ A full-stack app that allows users to query and retrieve predefined responses, a
 
 ## 📁 Project Structure
 
+root/ ├── server.js # Express server ├── data.json # Local data file for initial queries ├── client/ # React frontend │ ├── src/ │ │ ├── App.js │ │ ├── App.css │ │ └── index.js │ └── public/
+
 # respons-generator-api
